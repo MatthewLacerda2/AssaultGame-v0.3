@@ -1,0 +1,8 @@
+Arm
+Leg
+Head
+Body
+Left
+Right
+
+magni
